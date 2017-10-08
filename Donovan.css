@@ -86,11 +86,15 @@ ul {
 }
 
 a:link{
+	font-size: 25px;
+	font-family: "Arial";
 	color: yellow;
 	text-decoration: none;
 }
 
 a:visited{
+	font-size: 25px;
+	font-family: "Arial";
 	color: yellow;
 	text-decoration: none;
 }
