@@ -27,6 +27,15 @@ h3 {
 	text-transform: uppercase;
 }
 
+h4 {
+	color: rgb(250, 250, 250); 
+	font-family: "Arial Narrow"; sans serif; 
+	font-size: 35px;
+	text-align: center;
+	clear: left;
+	margin: 5px;
+}
+
 p {
 	color: rgb(250, 250, 250); 
 	font-family: "Arial Narrow"; sans serif; 
