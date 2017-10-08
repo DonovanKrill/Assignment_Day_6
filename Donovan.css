@@ -37,15 +37,11 @@ p {
 }
 
 #donoman img{
-
 	width: 400px; 
 	height: 400px; 
 	float: left;
 	margin-bottom: 10px;
-	margin-right: 30px; 
-
-
-	
+	margin-right: 30px; 	
 }
 
 
@@ -55,7 +51,6 @@ p {
 	display: block;
 	margin: 0 auto;
 	text-align: center;
-	
 }
 
 #image5 {
@@ -68,7 +63,6 @@ p {
 
 body {
 	background: #A9A9A9
-
 }
 
 ul {
@@ -83,14 +77,13 @@ ul {
 @media all and (max-width: 480px) {
 
 #donoman img{
-
 	width: 100px; 
 	height: 100px; 
 	float: left;
 	margin-bottom: 10px;
-	margin-right: 30px; 
-	
+	margin-right: 30px; 	
 }
+
 }
 
 
