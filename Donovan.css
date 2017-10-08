@@ -36,14 +36,17 @@ p {
 	margin: 5px;
 }
 
+
+
 #donoman img{
-	width: 400px; 
-	height: 400px; 
+	max-width: 400px;
+	max-height: 300px;
+	width: 100%;
 	float: left;
+	object-fit: cover; 
 	margin-bottom: 10px;
 	margin-right: 30px; 	
 }
-
 
 #imageA {
 	width: 350px;
@@ -73,6 +76,15 @@ ul {
 	clear: left;
 }
 
+a:link{
+	color: yellow;
+	text-decoration: none;
+}
+
+a:visited{
+	color: yellow;
+	text-decoration: none;
+}
 
 @media all and (max-width: 480px) {
 
